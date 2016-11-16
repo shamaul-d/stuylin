@@ -1,0 +1,23 @@
+a {
+    font-family: Arial;
+    color:#34f100
+}
+
+body {
+    background-color:green;
+}
+
+p {
+    text-align: right
+}
+
+
+h1 {
+    font-family: "Comic Sans MS";
+    font-style: italic;
+}
+
+h2 {
+    color: red;
+    font-family: Helvetica;
+}

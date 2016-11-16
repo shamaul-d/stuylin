@@ -1,5 +1,7 @@
 h1 {
     font-family:"Comic Sans MS";
+    font-style:italic;
+    color:lightsteelblue;
 }
 
 h3 {
@@ -8,6 +10,7 @@ h3 {
 
 P {
     overflow:scroll;
+    font-family:"Comic Sans MS";
 }
 
 body {
@@ -16,4 +19,5 @@ body {
 
 h2 {
     color:#75226c;
+    font-family:"Comic Sans MS";
 }
