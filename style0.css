@@ -1,0 +1,19 @@
+h1 {
+    font-family:"Comic Sans MS";
+}
+
+h3 {
+    font-style:italic;
+}
+
+P {
+    overflow:scroll;
+}
+
+body {
+    background-color:#ff2052;
+}
+
+h2 {
+    color:#75226c;
+}
