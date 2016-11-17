@@ -8,7 +8,7 @@ body {
 }
 
 p {
-    text-align: right
+    text-align: right;
 }
 
 
@@ -20,4 +20,27 @@ h1 {
 h2 {
     color: red;
     font-family: Helvetica;
+}
+
+div {
+    font-size:125%;      
+}
+
+li {
+    color: blue; 
+}
+
+.extreme {
+    text-align: center;
+    font-style: italic;
+}
+
+.prose {
+    color: orange;
+    font-size: 300%
+}
+
+#head1 {
+    text-align: right;
+    font-weight: bold;
 }
