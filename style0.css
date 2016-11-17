@@ -22,6 +22,10 @@ h2 {
     font-family:"Comic Sans MS";
 }
 
+div {
+    font-size: 150%;
+}
+
 .extreme {
     font-weight: bold;
 }
@@ -32,4 +36,5 @@ h2 {
 
 #tehlulz {
     font-family: Helvetica;
+    font-weight: bold;
 }
